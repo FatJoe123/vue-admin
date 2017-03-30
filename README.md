@@ -10,3 +10,25 @@ admin template based on vue.js and element
   5.使用vue-resource发送请求
   
 实际项目中使用vue-resource感觉比axios更好
+
+# ****_admin
+
+> mailidai_admin
+
+## Build Setup
+
+``` bash
+# install dependencies
+npm install
+
+# serve with hot reload at localhost:8080
+npm run dev
+
+# build for production with minification
+npm run build
+
+# build for production and view the bundle analyzer report
+npm run build --report
+```
+
+For detailed explanation on how things work, checkout the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
