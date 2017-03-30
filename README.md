@@ -1,4 +1,5 @@
 # vue-admin-model
+
 ###admin template based on vue.js and element
 ###目前公司线上正在使用的后台
 
@@ -13,7 +14,7 @@
 
 # ****_admin
 
-> mailidai_admin
+> ***_admin
 
 ## Build Setup
 
