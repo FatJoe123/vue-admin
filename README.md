@@ -11,9 +11,10 @@
   5.使用vue-resource发送请求
   
 ### <使用的体会>
-实际项目中使用vue-resource感觉比axios更好
-使用webpack的require实现按需加载
-vuex还在学习中，本次没有使用上，后续学习后再添加
+1.实际项目中使用vue-resource感觉比axios更好
+2.使用webpack的require实现按需加载
+3.vuex还在学习中，本次没有使用上，后续学习后再添加
+
 # ****_admin
 
 > ***_admin
